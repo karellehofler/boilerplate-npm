@@ -4,6 +4,7 @@
 	"description": "Learning about npm with freeCodeCamp",
 	"keywords": ["freecodecamp", "tutorial", "backend", "npm"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
