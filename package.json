@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Karelle Hofler",
 	"description": "Learning about npm with freeCodeCamp",
-	"keywords": ["freeCodeCamp", "tutorial", "backend", "npm"],
+	"keywords": ["freecodecamp", "tutorial", "backend", "npm"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
